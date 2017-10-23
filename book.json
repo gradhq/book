@@ -1,0 +1,13 @@
+{
+    "gitbook": "3.x.x",
+    "links": {
+        "contributePrefix": "https://github.com/gradhq/book/"
+    },
+    "plugins": ["ga"],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-86651245-5"
+        }
+    }
+}
+
